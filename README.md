@@ -22,4 +22,4 @@ This project analyzes **differential gene expression (DEG) in RNA-seq data** usi
   - **IFI27 (log2FC = 3.75)** → Related to immune activation
 - **Fewer downregulated genes**, indicating most genes are maintained or upregulated.
 
-##  ** Volcano Plot:**
+##  Volcano Plot
